@@ -1,6 +1,5 @@
 {
   "Step": {
-    "address": "string",
     "steps": "int",
     "createdAt": "date"
   }
