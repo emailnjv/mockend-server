@@ -1,0 +1,7 @@
+{
+  "Steps": {
+    "address": "string",
+    "steps": "int",
+    "createdAt": "date"
+  }
+}
